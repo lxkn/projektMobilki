@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Premier League</string>
+    <string name="results">Wyniki</string>
+    <string name="timetable">Terminarz</string>
+    <string name="table">Tabela</string>
+    <string name="schedule">Rozklad</string>
+</resources>

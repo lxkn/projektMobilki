@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Premier League</string>
+    <string name="table">Table</string>
+    <string name="results">Results</string>
+    <string name="timetable">timetable</string>
+    <string name="schedule">Schedule</string>
+</resources>
